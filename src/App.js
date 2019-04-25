@@ -1,9 +1,14 @@
 import React from 'react';
+import Nav from './components/Nav/Nav';
+import About from './components/About/About';
+import Skills from './components/Skills/Skills';
 
 function App() {
   return (
     <div>
-      <h1>Welcome to my website.  SRT51591</h1>
+    <Nav />
+    <About />
+    <Skills />
     </div>
   );
 }
