@@ -9,7 +9,7 @@ class About extends Component {
             <div className="container-fluid p-3" id="about">
                 <div className="row mt-5 mb-5 align-items-center">
                     <div className="col-xs-12 col-md-6 d-flex justify-content-center mt-5">
-                        <img src={require('./img/aboutimg.jpeg')} className="rounded-circle" alt="Sam" id="aboutmeimg" />
+                        <img src={require('../../assets/images/aboutme.jpeg')} className="rounded-circle" alt="Sam" id="aboutmeimg" />
                     </div>
                     <div className="col-xs-12 col-md-6 mt-5">
                         <p className="p-3" id="about-me-text">

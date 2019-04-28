@@ -34,7 +34,7 @@ class Connect extends Component {
                     <div className="col-xs-12 col-md-6">
                         <div className="row mt-3 justify-content-center">
                             <a href="//www.linkedin.com/in/samtaub/" target="_blank">
-                                <img src={require('./img/linkedin.png')} alt="LinkedIn" id="linkedin-logo" />
+                                <img src={require('../../assets/images/connect/linkedin.png')} alt="LinkedIn" id="linkedin-logo" />
                             </a>
                         </div>
 
@@ -45,7 +45,7 @@ class Connect extends Component {
                     <div className="col-xs-12 col-md-6">
                         <div className="row mt-3 justify-content-center">
                             <a href="//github.com/SamTaub" target="_blank">
-                                <img src={require('./img/github-logo.png')} alt="GitHub" id="github-logo" />
+                                <img src={require('../../assets/images/connect/github-logo.png')} alt="GitHub" id="github-logo" />
                             </a>
                         </div>
                         <div className="row mt-3 justify-content-center">
@@ -56,7 +56,7 @@ class Connect extends Component {
             </div>
         )
     }
-
+    
 };
 
 export default Connect;

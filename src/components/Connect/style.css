@@ -1,11 +1,6 @@
-.fa-phone{
-    font-size: 75px;
-    color: #fff;
-}
-
-.fa-envelope{
-    font-size: 75px;
-    color: #fff;
+#connect{
+    background-color: #011A27;
+    font-family: 'Rubik', sans-serif;
 }
 
 #linkedin-logo{
@@ -18,10 +13,6 @@
     width: 75px;
 }
 
-#connect{
-    background-color: #011A27;
-    font-family: 'Rubik', sans-serif;
-}
 h4{
     color: #fff;
 }
@@ -29,3 +20,17 @@ h4{
 h1{
     color: #fff;
 }
+
+.fa-phone{
+    font-size: 75px;
+    color: #fff;
+}
+
+.fa-envelope{
+    font-size: 75px;
+    color: #fff;
+}
+
+
+
+

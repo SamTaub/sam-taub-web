@@ -16,7 +16,7 @@ class Projects extends Component {
                     <div className="col-xs-12 col-md-6 d-flex justify-content-center">
                         <div className="card border-0 m-5">
                             <a href="//bead.li" target="blank">
-                                <img src={require('./img/beadlipreview.png')} className="card-img-top" alt="Beadli" id="beadliimg" />
+                                <img src={require('../../assets/images/projects/beadlipreview.png')} className="card-img-top" alt="Beadli" id="beadliimg" />
                             </a>
                             <div className="card-body">
                                 <h3 className="text-center"><a href="//bead.li" target="_blank">Beadli</a></h3>
@@ -29,7 +29,7 @@ class Projects extends Component {
                     <div className="col-xs-12 col-md-6 d-flex justify-content-center">
                         <div className="card border-0 m-5">
                             <a href="//samtaub.github.io/react-clicky-game/" target="blank">
-                                <img src={require('./img/clickypreview.png')} className="card-img-top" alt="South Park Click Game" />
+                                <img src={require('../../assets/images/projects/clickypreview.png')} className="card-img-top" alt="South Park Click Game" />
                             </a>
                             <div className="card-body">
                                 <h3 className="text-center"><a href="//samtaub.github.io/react-clicky-game/" target="_blank">South Park Clicky Game</a></h3>
@@ -42,7 +42,7 @@ class Projects extends Component {
                     <div className="col-xs-12 col-md-6 d-flex justify-content-center">
                         <div className="card border-0 m-5">
                             <a href="//funky-funkos.herokuapp.com/" target="blank">
-                                <img src={require('./img/funkopreview.png')} className="card-img-top" alt="My Funko Pop!" />
+                                <img src={require('../../assets/images/projects/funkopreview.png')} className="card-img-top" alt="My Funko Pop!" />
                             </a>
                             <div className="card-body">
                                 <h3 className="text-center"><a href="//funky-funkos.herokuapp.com/" target="_blank">My Funko Pop!</a></h3>
@@ -55,7 +55,7 @@ class Projects extends Component {
                     <div className="col-xs-12 col-md-6 d-flex justify-content-center">
                         <div className="card border-0 m-5">
                             <a href="//samtaub.github.io/Project-1/" target="blank">
-                                <img src={require('./img/nbasearchpreview.png')} className="card-img-top" alt="NBA Player & Team Search" />
+                                <img src={require('../../assets/images/projects/nbasearchpreview.png')} className="card-img-top" alt="NBA Player & Team Search" />
                             </a>
                             <div className="card-body">
                                 <h3 className="text-center"><a href="//samtaub.github.io/Project-1/" target="_blank">NBA Player and Team Search</a></h3>
