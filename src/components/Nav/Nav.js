@@ -1,21 +1,21 @@
 import React, { Component } from 'react';
-import './Nav.css';
+import './style.css';
 
 class Nav extends Component {
 
     render() {
         return (
-            <nav class="navbar navbar-expand-lg navbar-light bg">
-                <a class="navbar-brand text-white" href="#"><h3>Sam Taub</h3></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+            <nav className="navbar navbar-expand-lg navbar-dark fixed-top p-2" id="nav-top">
+                <a className="navbar-brand"><h3>Sam Taub</h3></a>
+                <button className="navbar-toggler toggler-border" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span className="navbar-toggler-icon toggler-border"></span>
                 </button>
-                <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                    <div class="navbar-nav">
-                        <a class="nav-item nav-link text-white" href="#"><h4>About</h4></a>
-                        <a class="nav-item nav-link text-white" href="#"><h4>Skills</h4></a>
-                        <a class="nav-item nav-link text-white" href="#"><h4>Portfolio</h4></a>
-                        <a class="nav-item nav-link text-white" href="#"><h4>Connect</h4></a>
+                <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                    <div className="navbar-nav">
+                        <a className="nav-item nav-link" href="#about"><h5 className="nav-heading">About</h5></a>
+                        <a className="nav-item nav-link" href="#skills"><h5 className="nav-heading">Skills</h5></a>
+                        <a className="nav-item nav-link" href="#projects"><h5 className="nav-heading">Portfolio</h5></a>
+                        <a className="nav-item nav-link" href="#connect"><h5 className="nav-heading">Connect</h5></a>
                     </div>
                 </div>
             </nav>

@@ -1,0 +1,21 @@
+.card-img-top{
+    height: 200px;
+    width: 100%;
+}
+
+.card {
+    width: 25rem;
+}
+
+.card-body{
+    background-color: #063852;
+    color: white;
+}
+
+a, a:hover, a:visited{
+    color: white;
+}
+
+#projects{
+    background-color: #063852;
+}

@@ -1,4 +1,23 @@
-img {
-    height: 400px;
-    width: 400px;
+#about{
+    color: #fff;
+    background-color: #063852;
+}
+
+#aboutmeimg {
+    height: 350px;
+    width: 350px;
+}
+
+#about-me-text {
+    font-size: 1.75rem;
+}
+
+.btn{
+    background-color: #f0810f;
+    color: #ffffff;
+}
+
+.btn:hover{
+    color: #ffffff;
+    font-weight: bold;
 }

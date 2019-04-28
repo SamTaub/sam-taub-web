@@ -2,6 +2,16 @@ ul {
     list-style: none;
 }
 
-.bg{
-    background-color: dodgerblue;
+ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+#skills{
+    background-color: #011A27;
+}
+
+.img-resize{
+    height: 48px;
+    width: 48px;
 }
