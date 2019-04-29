@@ -13,6 +13,8 @@ This page serves as my personal webpage to explain a little bit about myself, wh
 * HTML5
 * CSS
 * Bootstrap
+* Node.JS
+* Express.JS
 * React.JS
 
 ##### Last updated April 29, 2019
