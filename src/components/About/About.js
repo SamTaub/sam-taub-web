@@ -13,11 +13,11 @@ class About extends Component {
                     </div>
                     <div className="col-xs-12 col-md-6 mt-5">
                         <p className="p-3" id="about-me-text">
-                            I'm a full stack web developer located in the Philadelphia area.  I enjoy coding every day and making fun, easy to use web applications.  I prioritize writing clean code and creating applications that are mobile responsive.  Continue scrolling to see technologies I have used, sample projects, and learn how to connect with me.
+                            I'm a full stack web developer located in the Philadelphia area.  I enjoy coding every day and creating straightforward, easy to use web applications.  I prioritize clean code and mobile responsiveness in my applications.  Continue browsing my page to learn about the technologies I have used, sample projects, and how to connect with me.
                         </p>
                         <div className="row">
                             <div className="col d-flex justify-content-center">
-                                <a href="//google.com" target="_blank"><button type="button" className="btn rounded-pill"><h5 className="p-1"> View Resume</h5></button></a>
+                                <a href="//drive.google.com/file/d/1qLRa1fiZBHZBKfufcZk3dU4jj0PnZNwC/view?usp=sharing" target="_blank"><button type="button" className="btn rounded-pill"><h5 className="p-1"> View Resume</h5></button></a>
                             </div>
                         </div>
                     </div>
