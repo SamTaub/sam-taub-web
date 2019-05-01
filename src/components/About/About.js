@@ -17,7 +17,7 @@ class About extends Component {
                         </p>
                         <div className="row">
                             <div className="col d-flex justify-content-center">
-                                <a href="//drive.google.com/file/d/1qLRa1fiZBHZBKfufcZk3dU4jj0PnZNwC/view?usp=sharing" target="_blank"><button type="button" className="btn rounded-pill"><h5 className="p-1"> View Resume</h5></button></a>
+                                <a href="//drive.google.com/file/d/18vyHRIT8Ueb30NIu19KbIKrAgIL1SJTM/view?usp=sharing" target="_blank"><button type="button" className="btn rounded-pill"><h5 className="p-1"> View Resume</h5></button></a>
                             </div>
                         </div>
                     </div>
