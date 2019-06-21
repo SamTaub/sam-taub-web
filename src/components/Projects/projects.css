@@ -1,22 +1,28 @@
-.card-img-top{
-    height: 200px;
-    width: 100%;
+.card-img-top {
+  height: 200px;
+  width: 100%;
 }
 
 .card {
-    width: 25rem;
+  width: 25rem;
 }
 
-.card-body{
-    background-color: #063852;
-    color: white;
+.featured-link {
+  text-decoration: underline;
 }
 
-a, a:hover, a:visited{
-    color: white;
+.card-body {
+  background-color: #063852;
+  color: white;
 }
 
-#projects{
-    background-color: #063852;
-    font-family: 'Rubik', sans-serif;
+a,
+a:hover,
+a:visited {
+  color: white;
+}
+
+#projects {
+  background-color: #063852;
+  font-family: 'Rubik', sans-serif;
 }

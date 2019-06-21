@@ -27,14 +27,21 @@ const Projects = () => {
                 </a>
               </h3>
               <br />
-              <p className="card-text">
-                A fun, interactive application where users can browse designs or
-                publish their own. A full stack web application powered by
-                React.
-              </p>
               <p className="card-text text-center">
                 <a href="//github.com/SamTaub/project-3" target="_blank">
                   View Github
+                </a>
+              </p>
+              <p className="card-text">
+                Beadli is a full stack web application powered by a React front
+                end. Users can create, share, and browse designs intended for
+                fuse bead crafting.{' '}
+                <a
+                  className="featured-link"
+                  href="https://www.trilogyed.com/blog/a-surprise-birthday-present-and-the-gift-of-teamwork-just-another-penn-demo-day/"
+                  target="_blank"
+                >
+                  Beadli was recently featured in a Trilogy Education Blog!
                 </a>
               </p>
             </div>
@@ -59,11 +66,6 @@ const Projects = () => {
                 </a>
               </h3>
               <br />
-              <p className="card-text">
-                Click the image to score a point, just don't click on the same
-                image two times or you lose the game! My first application built
-                using React.
-              </p>
               <p className="card-text text-center">
                 <a
                   href="//github.com/SamTaub/react-clicky-game"
@@ -71,6 +73,11 @@ const Projects = () => {
                 >
                   View Github
                 </a>
+              </p>
+              <br />
+              <p className="card-text">
+                My first application built using React. A simple click game that
+                utilizes props & state.
               </p>
             </div>
           </div>
@@ -91,14 +98,15 @@ const Projects = () => {
                 </a>
               </h3>
               <br />
-              <p className="card-text">
-                Customize your own Marvel Superhero. Create matching superheros
-                to unlock trophies.
-              </p>
               <p className="card-text text-center">
                 <a href="//github.com/troynwynn/MyFunkoPop" target="_blank">
                   View Github
                 </a>
+              </p>
+              <p className="card-text">
+                Full stack application featuring Passport.js, MySQL, and jQuery.
+                Users are encouraged to customize their own Marvel themed
+                superheroes. Users are awarded trophies for matching outfits.
               </p>
             </div>
           </div>
@@ -115,20 +123,20 @@ const Projects = () => {
             <div className="card-body">
               <h3 className="text-center">
                 <a href="//samtaub.github.io/Project-1/" target="_blank">
-                  NBA Player and Team Search
+                  NBA Player & Team Search
                 </a>
               </h3>
               <br />
-              <p className="card-text">
-                Search for news about your favorite NBA players and teams. Find
-                tickets to see your favorite team. My first web application
-                build 8 weeks into the University of Pennsylvania Coding
-                Bootcamp.
-              </p>
               <p className="card-text text-center">
                 <a href="//github.com/SamTaub/Project-1" target="_blank">
                   View Github
                 </a>
+              </p>
+              <p className="card-text">
+                Front end application featuring jQuery, AJAX, and Firebase.
+                Users can interact with the UI to search news for NBA players
+                and teams. Links are also provided to purchase tickets if
+                tickets are available.
               </p>
             </div>
           </div>
