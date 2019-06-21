@@ -1,24 +1,24 @@
-#about{
-    color: #fff;
-    background-color: #063852;
-    font-family: 'Rubik', sans-serif;
+#about {
+  color: #fff;
+  background-color: #063852;
+  font-family: 'Rubik', sans-serif;
 }
 
 #aboutmeimg {
-    height: 350px;
-    width: 350px;
+  height: 350px;
+  width: 350px;
 }
 
 #about-me-text {
-    font-size: 1.75rem;
+  font-size: 1.15rem;
 }
 
-.btn{
-    background-color: #f0810f;
-    color: #ffffff;
+.btn {
+  background-color: #f0810f;
+  color: #ffffff;
 }
 
-.btn:hover{
-    color: #ffffff;
-    font-weight: bold;
+.btn:hover {
+  color: #ffffff;
+  font-weight: bold;
 }
