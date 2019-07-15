@@ -49,6 +49,18 @@ const Skills = () => {
               <h4>
                 <span>
                   <img
+                    src={require('../../assets/images/skills/sass.png')}
+                    alt="Sass"
+                    className="img-resize"
+                  />
+                </span>
+                Sass
+              </h4>
+            </li>
+            <li>
+              <h4>
+                <span>
+                  <img
                     src={require('../../assets/images/skills/icons8-bootstrap-48.png')}
                     alt="Bootstrap"
                   />
